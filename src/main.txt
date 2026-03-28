@@ -3,3 +3,7 @@ Versión inicial del proyecto
 
 --- GÉNERO: ACCIÓN ---
 Animes: Dragon Ball Z, Naruto, Attack on Titan
+
+--- GÉNERO: ROMANCE ---
+Animes: Toradora, Your Lie in April, Clannad
+
