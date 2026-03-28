@@ -1,2 +1,5 @@
 === CATÁLOGO DE ANIME ===
 Versión inicial del proyecto
+
+--- GÉNERO: ROMANCE ---
+Animes: Toradora, Your Lie in April, Clannad
