@@ -9,3 +9,6 @@ Animes: Toradora, Your Lie in April, Clannad
 
 --- GÉNERO: TERROR ---
 Animes: Another, Corpse Party, Higurashi
+
+--- GÉNERO: COMEDIA ---
+Animes: Gintama, Konosuba, Daily Lives of High School Boys
