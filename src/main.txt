@@ -7,3 +7,5 @@ Animes: Dragon Ball Z, Naruto, Attack on Titan
 --- GÉNERO: ROMANCE ---
 Animes: Toradora, Your Lie in April, Clannad
 
+--- GÉNERO: TERROR ---
+Animes: Another, Corpse Party, Higurashi
